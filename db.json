@@ -1,0 +1,12 @@
+{
+  "devices": [
+  { "id": 1,  "type": "blip", "devicegroup":1 },
+  { "id": 2,  "type": "bliper", "devicegroup":2 },
+  { "id": 3,  "type": "blipy", "devicegroup":2},
+  { "id": 4,  "type": "blipster", "devicegroup":3  },
+  { "id": 5,  "type": "blipblup", "devicegroup":1 },
+  { "id": 6,  "type": "blip", "devicegroup":3 },
+  { "id": 7,  "type": "blipster", "devicegroup":2  },
+  { "id": 8,  "type": "bliper", "devicegroup":1 }
+  ]
+}
